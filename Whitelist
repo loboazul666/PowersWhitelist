@@ -23,7 +23,7 @@ return {
 		Joker = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		["Tools"] = {
 			SizeUpSizeDown = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-			Escape = {"", "", "ratoli5pro", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Escape = {"", "Aaron_perez213", "ratoli5pro", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Timeskip = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 			InvisibleHit = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Vanish = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
