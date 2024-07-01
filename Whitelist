@@ -15,7 +15,7 @@ return {
 		KidProwler = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Juggernaut = {"", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Ghost = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		GreenLantern = {"", "", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenLantern = {"", "", "", "", "Humanabled", "freemuhz", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		DeathNote = {"", "", "", "kidgkgkg", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Movement = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 		FastRegen = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
