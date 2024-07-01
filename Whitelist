@@ -1,0 +1,32 @@
+return {
+	["PowersWhiteList"] = {
+		Venom = {nil,},
+		JJARC = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenGoblin = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Wolverine = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Hulk = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Speed = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Flight = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Batman = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		NightWing = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+		MilesMorales = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		CatWoman = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		ReverseFlash = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		KidProwler = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Juggernaut = {"", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Ghost = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenLantern = {"", "", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		DeathNote = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Movement = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+		FastRegen = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		FlameOn = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Joker = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		["Tools"] = {
+			SizeUpSizeDown = {"", "", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Escape = {"", "", "ratoli5pro", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Timeskip = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+			InvisibleHit = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Vanish = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		}
+	};
+}
