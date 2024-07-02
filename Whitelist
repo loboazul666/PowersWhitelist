@@ -11,7 +11,7 @@ return {
 		NightWing = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 		MilesMorales = {"", "", "", "freemuhz", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		CatWoman = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		Godmode = {"", "", "sqwuba", "Humanabled", "sqwuba", "DearLucifear", "loboasul1424"},
+		Godmode = {"", "", "", "Humanabled", "sqwuba", "DearLucifear", "loboasul1424"},
 		ReverseFlash = {"", "kidgkgkg", "freemuhz", "kidgkgkg", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		KidProwler = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Juggernaut = {"", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
