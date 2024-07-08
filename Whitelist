@@ -2,9 +2,9 @@ return {
 	["PowersWhiteList"] = {
 		Venom = {nil,},
 		JJARC = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		GreenGoblin = {"", "", "", "freemuhz", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenGoblin = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Wolverine = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		Hulk = {"", "", "", "freemuhz", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Hulk = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Speed = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Flight = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Batman = {"", "", "", "sqwuba", "kidgkgkg", "LidarkStuff", "DearLucifear", "loboasul1424"},
@@ -23,8 +23,8 @@ return {
 		FlameOn = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Joker = {"", "8989Adriana2", "kidgkgkg", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		["Tools"] = {
-			SizeUpSizeDown = {"IllIllIIllIlllIllIIl", "sqwuba", "freemuhz", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
-			Escape = {"freemuhz", "IllIllIIllIlllIllIIl", "sqwuba", "", "Aaron_perez213", "", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			SizeUpSizeDown = {"", "sqwuba", "", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Escape = {"", "", "sqwuba", "", "Aaron_perez213", "", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Timeskip = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 			InvisibleHit = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Vanish = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
