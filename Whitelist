@@ -23,7 +23,7 @@ return {
 		FlameOn = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Joker = {"glasswake", "8989Adriana2", "kidgkgkg", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		["Tools"] = {
-			SizeUpSizeDown = {"Altrobloxdhc20", "sqwuba", "", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			SizeUpSizeDown = {"Altrobloxdhc20", "sqwuba", "kidgkgkg", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Escape = {"", "Hugogoku202", "sqwuba", "Altrobloxdhc20", "Aaron_perez213", "", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Timeskip = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 			InvisibleHit = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
