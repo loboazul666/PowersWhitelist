@@ -7,7 +7,7 @@ return {
 		Hulk = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Speed = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Flight = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		Batman = {"", "", "", "sqwuba", "kidgkgkg", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		Batman = {"", "", "SentHerToHelI", "sqwuba", "kidgkgkg", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		NightWing = {nil, "LidarkStuff", "DearLucifear", "loboasul1424"},
 		MilesMorales = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		CatWoman = {"", "", "", "sqwuba", "LidarkStuff", "DearLucifear", "loboasul1424"},
