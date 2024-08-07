@@ -2,6 +2,6 @@ return {
 	["StarsTemporales"]= {
 		["Usuario"] = {["Año"] = 2024, Mes = 12, Dia = 23, Hora = 11, Minuto = 0, Segundo = 0, Comentario = "Algo que quieras poner aqui como por ejemplo cuanto costo la star o algo asi"},
 		["loboasul1424"] = {["Año"] = 2024, Mes = 12, Dia = 23, Hora = 11, Minuto = 0, Segundo = 0, Comentario = "50$"},
-		["LidarkStuff"] = {["Año"] = 2024, Mes = 12, Dia = 23, Hora = 11, Minuto = 0, Segundo = 0, Comentario = "50$"},
+		["TracyCooper2"] = {["Año"] = 2024, Mes = 9, Dia = 7, Hora = 23, Minuto = 13, Segundo = 28, Comentario = "Nitro 10 euros"},
 	};
 }
