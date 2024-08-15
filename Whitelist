@@ -26,7 +26,7 @@ return {
 			SizeUpSizeDown = {"Altrobloxdhc20", "romelitoproh", "liLBlackniUggesrs", "florensia_sb", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Escape = {"SentHerToHelI", "liLBlackniUggesrs", "", "romelitoproh", "", "Altrobloxdhc20", "", "florensia_sb", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Timeskip = {nil, "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
-			InvisibleHit = {nil, "romelitoproh","Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			InvisibleHit = {nil, "romelitoproh", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Vanish = {"", "", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		}
 	};
