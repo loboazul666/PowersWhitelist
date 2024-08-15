@@ -2,7 +2,7 @@ return {
 	["PowersWhiteList"] = {
 		Venom = {nil,},
 		JJARC = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		GreenGoblin = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		GreenGoblin = {"", "", "", "kidgkgkg", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Wolverine = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Hulk = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Speed = {"", "", "", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
