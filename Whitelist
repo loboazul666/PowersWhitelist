@@ -12,13 +12,13 @@ return {
 		MilesMorales = {"romelitoproh", "", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		CatWoman = {"romelitoproh", "Humanabled", "liLBlackniUggesrs", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Godmode = {"romelitoproh", "kidgkgkg", "liLBlackniUggesrs", "Altrobloxdhc20", "LidarkStuff", "Humanabled", "romelitoproh", "DearLucifear", "loboasul1424"},
-		ReverseFlash = {"romelitoproh", "liLBlackniUggesrs", "", "kidgkgkg", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
+		ReverseFlash = {"romelitoproh", "liLBlackniUggesrs", "umdefend", "kidgkgkg", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		KidProwler = {"", "", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Juggernaut = {"", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Ghost = {"", "", "", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		GreenLantern = {"", "florensia_sb", "romelitoproh", "kidgkgkg", "", "", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		DeathNote = {"liLBlackniUggesrs", "romelitoproh", "", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
-		Movement = {nil, "romelitoproh", "LidarkStuff", "Humanabled", "DearLucifear", "loboasul1424"},
+		Movement = {nil, "romelitoproh", "LidarkStuff", "Humanabled", "DearLucifear", "loboasul1424", "umdefend"},
 		FastRegen = {"", "", "kidgkgkg", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		FlameOn = {"", "", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		Joker = {"romelitoproh", "", "", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
@@ -27,7 +27,7 @@ return {
 			Escape = {"SentHerToHelI", "liLBlackniUggesrs", "", "romelitoproh", "", "Altrobloxdhc20", "", "florensia_sb", "Humanabled", "", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			Timeskip = {nil, "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 			InvisibleHit = {nil, "romelitoproh", "Humanabled", "LidarkStuff", "DearLucifear", "loboasul1424"},
-			Vanish = {"", "", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
+			Vanish = {"", "umdefend", "Humanabled", "romelitoproh", "LidarkStuff", "DearLucifear", "loboasul1424"},
 		}
 	};
 }
