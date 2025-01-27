@@ -1,33 +1,28 @@
 return {
-	["PowersWhiteList"] = {
-		Venom = {nil,},
-		JJARC = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		GreenGoblin = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Wolverine = {"", "", "", "", "LidarkStuff", "veelku", "veelku"},
-		Hulk = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Speed = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Flight = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Batman = {"", "", "", "", "", "LidarkStuff", "", "veelku"},
-		NightWing = {nil, "", "LidarkStuff", "", "", "veelku"},
-		MilesMorales = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		CatWoman = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Godmode = {"", "", "", "", "", "LidarkStuff", "", "", "", "veelku"},
-		ReverseFlash = {"", "", "", "", "", "", "LidarkStuff", "", "veelku"},
-		KidProwler = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Juggernaut = {"", "", "", "LidarkStuff", "", "veelku"},
-		Ghost = {"", "", "", "", "", "LidarkStuff", "", "veelku"},
-		GreenLantern = {"", "", "", "", "", "", "", "", "LidarkStuff", "", "veelku"},
-		DeathNote = {"", "", "", "", "", "LidarkStuff", "", "veelku"},
-		Movement = {nil, "", "LidarkStuff", "", "", "", "veelku"},
-		FastRegen = {"", "", "", "", "", "LidarkStuff", "", "veelku"},
-		FlameOn = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		Joker = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		["Tools"] = {
-			SizeUpSizeDown = {"", "", "", "", "", "LidarkStuff", "", "veelku"},
-			Escape = {"", "", "", "", "", "", "", "", "", "", "LidarkStuff", "", "veelku"},
-			Timeskip = {nil, "", "LidarkStuff", "", "veelku"},
-			InvisibleHit = {nil, "", "", "LidarkStuff", "", "veelku"},
-			Vanish = {"", "", "", "", "LidarkStuff", "", "veelku"},
-		}
-	};
+	["Powers"] = {
+		["Shazam"] = {5159776962, 1676513337},
+		["Flash"] = {5159776962, 1676513337},
+		["Spiderman"] = {5159776962, 1676513337},
+		["Batman"] = {5159776962,1676513337},
+		["Venom"] = {5159776962,1676513337},
+		["DannyPhantom"] = {5159776962,1676513337},
+		["Hulk"] = {5159776962,1676513337},
+		["Blackflash"] = {5159776962,1676513337,},
+		["Titan"] = {5159776962,1676513337},
+		["Lock"] = {5159776962, 1676513337},
+		["Scorpion"] = {5159776962,1676513337},
+		["ScareBat"] = {5159776962,1676513337},
+		["DeathNote"] = {5159776962,1676513337},
+		["BULLET DEFLECT"] = {5159776962,1676513337},
+		["DooM"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
+		["DHMShazam"] = {5159776962,1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
+		["GreenLantern"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
+		["SizeDown"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
+		["SizeUp"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
+		["KatanaOP"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
+	},
+	["GiveGuns"] = {5159776962,1676513337},
+	["Admin"] = {
+		["BattleRoyale"] = {5159776962,1676513337}--only give to star manager
+	}
 }
