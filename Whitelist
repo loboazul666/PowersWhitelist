@@ -23,6 +23,6 @@ return {
 	},
 	["GiveGuns"] = {5159776962,1676513337,2570225509},
 	["Admin"] = {
-		["BattleRoyale"] = {5159776962,1676513337,2570225509},--only give to star manager
+		["BattleRoyale"] = {5159776962,2570225509,1676513337}--only give to star manager
 	}
 }
