@@ -21,7 +21,7 @@ return {
 		["SizeUp"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
 		["KatanaOP"] = {5159776962, 1676513337},-- DONT GIVE OUT / DO NOT SELL / DOESNT MATTER THE RANK
 	},
-	["GiveGuns"] = {5159776962,1676513337},
+	["GiveGuns"] = {5159776962,1676513337, 4091830099},
 	["Admin"] = {
 		["BattleRoyale"] = {5159776962,1676513337}--only give to star manager
 	}
